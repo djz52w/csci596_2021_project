@@ -43,3 +43,9 @@ Author: Jinze Du
  - Calculation speed benchmark comparison will be plotted.
 
  - If time allows, movie visualization of how particles flow and deposite inside nasal model will be conducted.
+
+
+
+> ## Calculation speed up
+![]( /imgs/p5.png)
+
