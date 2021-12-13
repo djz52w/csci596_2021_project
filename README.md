@@ -35,7 +35,7 @@ Author: Jinze Du
 2. If covered, remove viral particle; Otherwise, keep it;
 3. After loop is finished, compare the viral particles left with the original particle number, get the protection rate value;
 4. Complexity: O(N^2)
-![]( /imgs/p4.png)
+![]( /imgs/p4.jpg)
 
 > ## Current OpenMP implementation
  - As calculation for each viral particle is independent from other viral particles, OpenMP and mapreduce would be a good option to alleviate the computation complexity faced.
